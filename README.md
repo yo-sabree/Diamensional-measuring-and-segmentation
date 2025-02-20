@@ -52,6 +52,9 @@ Segmented objects (polygons around detected objects)
 Bounding boxes with size labels
 Real-time classification based on estimated object area
 
+![Example 1](https://github.com/user-attachments/assets/d85afd8c-2dcc-4b91-af29-729726c74d90)
+![Example 2](https://github.com/user-attachments/assets/e2012a82-42d4-4464-802c-58cb765cc1f3)
+
 ## Controls
 
 Press 'q' to exit the application.
@@ -61,9 +64,4 @@ Press 'q' to exit the application.
 Ensure the camera is stable for accurate depth estimation.
 Depth estimation may have noise; consider smoothing techniques if necessary.
 
-## 
-## Acknowledgments
 
-[Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
-[Intel ISL MiDaS](https://github.com/isl-org/MiDaS)
-OpenCV and PyTorch
