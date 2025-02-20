@@ -1,4 +1,10 @@
+# Dimensional Measuring and Segmentation
+
 This project uses YOLOv8 for object detection and segmentation, along with MiDaS for depth estimation, to measure object sizes in real-time using a webcam.
+
+![MiDAS](https://github.com/user-attachments/assets/b776fa79-cb69-4f5f-9944-cd3785eb472d)
+
+
 ## Features
 
 Real-time object detection and segmentation using [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics).
@@ -10,14 +16,12 @@ Interactive visualization with bounding boxes and labels indicating object size.
 Ensure you have the following dependencies installed:
 pip install ultralytics opencv-python numpy torch torchvision torchaudio
 
-## Installation &amp; Setup
 
-Clone the repository:
-git clone https://github.com/yo-sabeer/object-size-measurement.git
-cd Dimensional-measuring-and-segmentation
 
-Install dependencies:
+## Install dependencies:
+
 pip install -r requirements.txt
+
 Run the script:
 python main.py
 
